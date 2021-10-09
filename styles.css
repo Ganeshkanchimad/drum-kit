@@ -1,0 +1,22 @@
+#container{
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+    margin-top: 20vh;
+    width: 50vw;
+}
+
+.drum{
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    width: 10vw;
+    height: 10vw;
+    margin-top: 1rem;
+    font-size: xx-large;
+    
+}
+
+body{
+    text-align: center;
+}
