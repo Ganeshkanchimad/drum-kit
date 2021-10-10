@@ -3,7 +3,7 @@
     margin: auto;
     text-align: center;
     margin-top: 1rem;
-    width: 50vw;
+    width: 90vw;
 }
 
 #main-head{
@@ -34,13 +34,13 @@ body{
 }
 
 .one{
-    background-image: url(images/drum6.jpg);
+    background-image: url(images/drum1.jpg);
     background-position: center;
     background-size: 12vw;
     background-repeat: no-repeat;
 }
 .two{
-    background-image: url(images/drum7.jpeg);
+    background-image: url(images/drum2.jpeg);
     background-position: center;
     background-size: 10vw;
     background-repeat: no-repeat;
@@ -62,13 +62,13 @@ body{
     background-repeat: no-repeat;
 }
 .six{
-    background-image: url(images/drum1.jpeg);
+    background-image: url(images/drum6.jpeg);
     background-position: center;
     background-size: 12vw;
     background-repeat: no-repeat;
 }
 .seven{
-    background-image: url(images/drum2.jpeg);
+    background-image: url(images/drum7.jpeg);
     background-repeat: no-repeat;
 }
 
