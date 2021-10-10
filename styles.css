@@ -38,6 +38,7 @@ body{
     background-position: center;
     background-size: 12vw;
     background-repeat: no-repeat;
+    color: white;
 }
 .two{
     background-image: url(images/drum2.jpeg);
@@ -94,7 +95,6 @@ body{
     }
     .one{
         background-size: 30vw;
-        color: white;
     }
     .two{
         background-size: 30vw;
