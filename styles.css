@@ -87,6 +87,13 @@ body{
     margin-bottom: 0.05rem;
 }
 
+@media only screen and (min-width: 500px) {
+    .drum{
+        width: 25vw;
+        height: 25vw;
+    }
+    
+  }
 
 .footer-li{
     display: inline-block;
